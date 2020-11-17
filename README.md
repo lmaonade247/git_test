@@ -1,0 +1,1 @@
+This is Lmaonade’s first git project!
