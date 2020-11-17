@@ -1,2 +1,3 @@
 This is Lmaonade’s first git project!
-Hell yeah brooooo!
+2* 2 = 4
+WOW!!
